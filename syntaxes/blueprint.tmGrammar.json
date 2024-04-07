@@ -1,6 +1,9 @@
 {
     "scopeName": "source.blueprint-gtk",
     "name": "Blueprint",
+    "fileTypes": [
+        "blp"
+    ],
     "patterns": [
         {
             "include": "#comment"
