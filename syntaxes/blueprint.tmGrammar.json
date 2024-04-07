@@ -342,7 +342,9 @@
             },
             "end": "\\]",
             "endCaptures": {
-                "0": "punctuation.section.qualifier.end.blueprint-gtk"
+                "0": {
+                    "name": "punctuation.section.qualifier.end.blueprint-gtk"
+                }
             },
             "patterns": [
                 {
